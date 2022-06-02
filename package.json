@@ -1,6 +1,6 @@
 {
   "name": "@wcd/premo08.hyperhtmlelement-l3x6gnoj",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "serve": "npx wcd-cli@latest serve m69eQsvYkApefblFXMjr --open"
   }
